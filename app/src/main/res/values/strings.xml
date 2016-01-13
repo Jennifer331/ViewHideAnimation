@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ViewHideAnimation</string>
+    <string name="hide">隐藏</string>
+    <string name="show">显示</string>
+</resources>
